@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CustomerType xmlns="http://www.example.org/Customer">
+<customerId>45021</customerId>
+<name>Nobita</name>
+<age>26</age>
+</CustomerType>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><CustomerListType xmlns="http://www.example.org/Customer"><CustomerType><customerId>10025</customerId><name>Super Man</name><age>37</age></CustomerType><CustomerType><customerId>10026</customerId><name>Batman</name><age>33</age></CustomerType></CustomerListType>

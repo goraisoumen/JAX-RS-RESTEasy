@@ -1,0 +1,2 @@
+customer id:10025	 name:Super Man	 age:37
+customer id:10026	 name:Batman	 age:33
